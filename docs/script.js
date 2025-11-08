@@ -52,7 +52,7 @@ function startGame() {
       <div class="card-inner">
         <div class="card-front">❓</div>
         <div class="card-back">
-          <img src="/assets/${imgName}" alt="${imgName}">
+          <img src="assets/${imgName}" alt="${imgName}">
         </div>
       </div>
     `;
