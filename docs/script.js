@@ -6,7 +6,7 @@ const message = document.getElementById("message");
 
 // List of image file names from /assets folder
 let cardImages = [
-  "Tinker Bell.jpg",
+  "Tinker_Bell.jpg",
   "Periwinkle.jpg",
   "Silvermist.jpg",
   "Rosetta.jpg",
